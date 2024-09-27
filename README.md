@@ -1,5 +1,4 @@
-![Intro Image](download.gif)
-
+![Intro Image](download.gif){justify-content=center;}
 Miyorina378 here. This GitHub is mostly used for my funny little projects
 
 <!---
