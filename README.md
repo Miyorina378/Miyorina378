@@ -1,4 +1,4 @@
-![Intro Image](Koharu.gif)
+![Intro Image](download.gif)
 
 Miyorina378 here. This GitHub is mostly used for my funny little projects
 
