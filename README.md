@@ -1,4 +1,4 @@
-![Intro Image](download.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Intro Image](download.gif)
 Miyorina378 here. This GitHub is mostly used for my funny little projects
 
 <!---
