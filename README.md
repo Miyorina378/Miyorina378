@@ -1,5 +1,6 @@
-![Intro Image](download.gif)
 Miyorina378 here. This GitHub is mostly used for my funny little projects
+![Intro Image](download.gif)
+
 
 <!---
 Miyorina378/Miyorina378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
